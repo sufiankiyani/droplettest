@@ -26,7 +26,7 @@ define( 'DB_NAME', 'theme_dev' );
 define( 'DB_USER', 'root' );
 
 /** MySQL database password */
-define( 'DB_PASSWORD', '' );
+define( 'DB_PASSWORD', 'mac&123' );
 
 /** MySQL hostname */
 define( 'DB_HOST', 'localhost' );
